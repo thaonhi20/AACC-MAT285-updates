@@ -19,7 +19,7 @@ Zip code and attendance data for students of Bay Area schools replaced with clas
 ## Labs
 
 ### Lab 2 
-Farmers Markets in Bay Area replaced with Farmers Markets in Annapolis, MD.
+Farmers Markets in Bay Area replaced with Farmers Markets in Annapolis, MD.  Data obtained from [Kaggle.com farmers markets data set](https://www.kaggle.com/madeleineferguson/farmers-markets-in-the-united-states).
 
 ### Lab 8
 Lab 8: Salary data for California employees replaced with salary data for State of Maryland employees.  This data was obtained from [https://dbm.maryland.gov/employees/pages/salaryinformation.aspx](https://dbm.maryland.gov/employees/pages/salaryinformation.aspx).
