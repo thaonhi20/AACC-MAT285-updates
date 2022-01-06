@@ -5,16 +5,16 @@ This repository maintains modifications that have been made to lecture, homework
 ## Homework
 
 ### Homework 3 
-UC Berkeley Planning and Analysis data replaced with similar data set from University of Maryland’s Office of Institutional Research for numbers of majors (Questions 10 – 13). 
+UC Berkeley Planning and Analysis data replaced with similar data set from [University of Maryland’s Office of Institutional Research](https://www.irpa.umd.edu) for numbers of majors (Questions 10 – 13). 
 
 ### Homework 4 
-UC Berkeley faculty salary data replaced with data set reporting school enrollments for various demographic groups across many schools and universities in U.S.  Data set downloaded from Kaggle and cleaned.  
+UC Berkeley faculty salary data replaced with data set reporting school enrollments for various demographic groups across many schools and universities in U.S.  Data set downloaded from [Kaggle.com](https://www.kaggle.com) and cleaned.  
 
 ### Homework 5 
 Cal Football season data replaced with Baltimore Ravens football season data.  Data downloaded from [https://www.baltimoreravens.com](https://www.baltimoreravens.com) and cleaned. 
 
 ### Homework 12 
-Zip code and attendance data for students of Bay Area schools replaced with classification data for irises.  This data was obtained from Kaggle.com and cleaned.  
+Zip code and attendance data for students of Bay Area schools replaced with classification data for irises.  This data was obtained from [Kaggle.com](https://www.kaggle.com) and cleaned.  
 
 ## Labs
 
