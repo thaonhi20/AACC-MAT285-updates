@@ -10,5 +10,5 @@ UC Berkeley Planning and Analysis data replaced with similar data set from Unive
 ## Homework 
 4: UC Berkeley faculty salary data replaced with data set reporting school enrollments for various demographic groups across many schools and universities in U.S.  Data set downloaded from Kaggle and cleaned.  
 
-	HW 04-FA2021-LASTNAMES.ipynb
-	Diversity.csv
+HW 04-FA2021-LASTNAMES.ipynb
+Diversity.csv
