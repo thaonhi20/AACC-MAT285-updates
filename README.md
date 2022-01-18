@@ -54,5 +54,5 @@ Replaced flight data with Southwest flights out of BWI.  Data downloaded from Bu
 Replaced flight data with Southwest flights out of BWI.  Data downloaded from Bureau of Transportation Statistics website and cleaned. 
 
 
-![image](https://user-images.githubusercontent.com/72861442/149854907-73697e31-149f-44de-93d3-a1ec14e6c993.png)
+
 
