@@ -27,31 +27,31 @@ Lab 8: Salary data for California employees replaced with salary data for State 
 ## Lectures
 
 ### Lecture 4
-Data types and Sequences.  When reviewing table operations, skyscraper data was replaced with NBA salary data.
+Data types and Sequences.  When reviewing table operations, skyscraper data was replaced with NBA salary data (obtained from Data8 repository).
 
 ### Lecture 5
 Ranges and more on tables.  For demonstrations showing building of tables from scratch, table of streets in San Francisco was replaced with tables of flower names and modes of transportation.  
 
 ### Lecture 6 
-Census.  In table review, replaced UC Berkeley welcome survey data with NBA salary data for table review.
+Census.  In table review, replaced UC Berkeley welcome survey data with NBA salary data (obtained from Data8 repository) for table review.
 
 ### Lecture 9 
 Removed UC Berkeley survey data for visualization review.  Used geometric mean as an example of a function with multiple arguments; Used ‘Brooklyn 99’ detectives as examples for .apply method. 
 
 ### Lecture 10
-Replaced SF real estate data with real estate data for Sao Paulo obtained from Kaggle.  Replaced UC Berkeley welcome survey data with NBA salary data for table review.
+Replaced SF real estate data with real estate data for Sao Paulo obtained from [Kaggle.com](https://www.kaggle.com).  Replaced UC Berkeley welcome survey data with NBA salary data (obtained from Data8 repository) for table review.
 
 ### Lecture 11
-Modified to include skyscraper data.
+Modified to include skyscraper data  (obtained from Data8 repository).
 
 ### Lecture 12 
-Replaced Bay Area bicycle rental data with DC bicycle rental data.  Data downloaded from https://www.capitalbikeshare.com/system-data and cleaned. 
+Replaced Bay Area bicycle rental data with DC bicycle rental data.  Data downloaded from [https://www.capitalbikeshare.com/system-data](https://www.capitalbikeshare.com/system-data) and cleaned. 
 
 ### Lecture 15
-Replaced flight data with Southwest flights out of BWI.  Data downloaded from Bureau of Transportation Statistics website and cleaned. 
+Replaced flight data with Southwest flights out of BWI.  Data downloaded from [Bureau of Transportation Statistics website](https://www.bts.gov/) and cleaned. 
 
 ### Lecture 18
-Replaced flight data with Southwest flights out of BWI.  Data downloaded from Bureau of Transportation Statistics website and cleaned. 
+Replaced flight data with Southwest flights out of BWI.  Data downloaded from [Bureau of Transportation Statistics website](https://www.bts.gov/) and cleaned.
 
 
 
