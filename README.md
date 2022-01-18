@@ -1,6 +1,6 @@
 # MAT285-updates
 
-This repository maintains modifications that have been made to lecture, homework and lab assignments.  
+This repository maintains modifications that have been made to lecture, homework and lab assignments.  The readme file provides a brief description of each update.
 
 ## Homework
 
