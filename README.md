@@ -53,6 +53,7 @@ Replaced flight data with Southwest flights out of BWI.  Data downloaded from [B
 ### Lecture 18
 Replaced flight data with Southwest flights out of BWI.  Data downloaded from [Bureau of Transportation Statistics website](https://www.bts.gov/) and cleaned.
 
-
+### Lecture 31
+In section on nonlinear regression, added data set for estimation of octopus beak weight vs. age.  
 
 
